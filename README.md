@@ -66,6 +66,7 @@ install.packages(c("shiny", "e1071", "R6", "shinythemes", "xlsx", "doParallel"))
 5. View the predicted classes and download the results.
 
 ## Predictions and Probabilities
+![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/d60f03a5-3f28-4f29-9f57-9a28417ee69a)
 
 1. Switch to the **"Prédictions classe"** and **"Probabilité d'appartenance"** tabs to view predictions and probabilities.
 
