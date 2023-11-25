@@ -22,7 +22,7 @@ You can install them using the following R commands:
 ```R
 install.packages(c("shiny", "e1071", "R6", "shinythemes", "xlsx", "doParallel"))
 # Running the App
-
+```
 1. **Clone or download this repository** to your local machine.
 
 2. Open the R script **naive_bayes_app.R** in your R environment.
