@@ -65,7 +65,6 @@ install.packages(c("shiny", "e1071", "R6", "shinythemes", "xlsx", "doParallel"))
 
 4. Click **"Prédire les classes"** to predict the classes for the new data.
 
-5. View the predicted classes.
 
 ## Predictions and Probabilities
 ![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/d60f03a5-3f28-4f29-9f57-9a28417ee69a)
