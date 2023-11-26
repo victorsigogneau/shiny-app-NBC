@@ -1,5 +1,6 @@
 # Shiny Naive Bayes Classifier App
 
+The application is hosted [here](https://c4sf5g-victor-sigogneau.shinyapps.io/shiny_test/)
 ## Overview
 
 This Shiny application is designed to train and evaluate a Naive Bayes Classifier using user-provided datasets. It also allows users to make predictions on new datasets and explore the importance of variables.
