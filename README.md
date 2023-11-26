@@ -36,7 +36,8 @@ install.packages(c("shiny", "e1071", "R6", "shinythemes", "xlsx", "doParallel"))
 # Using the App
 
 ## Training the Model
-![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/863f2c51-9dac-410b-9d1f-3a6c5b0fe23a)
+![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/412ed671-c698-46a4-a717-831bd841f3fe)
+
 
 1. Navigate to the **"Entraîner le modèle"** tab.
 
@@ -49,13 +50,15 @@ install.packages(c("shiny", "e1071", "R6", "shinythemes", "xlsx", "doParallel"))
 5. Explore accuracy and model output in the **"Pré-Visualisation des données"** and **"Accuracy"** sections.
 
 ## Importance Variable Graph
-![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/b5e7f642-cb90-40b3-ba37-1fe2c7956113)
+![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/5ebc1546-0553-4ef0-a3ee-3ca9981836d1)
+
 
 1. Switch to the **"Graphique Importance variable"** tab.
 
 2. View the bar plot showing the importance of each variable.
 
 ## Predicting with a New Dataset
+![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/af7a044e-e2ac-4604-97cc-5c89f20346ea)
 
 1. Go to the **"Prediction avec un nouveau fichier"** tab.
 
@@ -67,8 +70,10 @@ install.packages(c("shiny", "e1071", "R6", "shinythemes", "xlsx", "doParallel"))
 
 
 ## Predictions and Probabilities
-![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/d60f03a5-3f28-4f29-9f57-9a28417ee69a)
-![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/c0c9a92a-7c4e-428c-93d7-c72c40914b0e)
+![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/1a595e80-e9a4-41e5-9f08-86ca9e3a8345)
+
+![image](https://github.com/victorsigogneau/shiny-app-NBC/assets/114923062/302ee1b8-b950-4c58-a669-59501261f061)
+
 
 
 1. Switch to the **"Prédictions classe"** and **"Probabilité d'appartenance"** tabs to view predictions and probabilities.
