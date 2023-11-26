@@ -29,9 +29,11 @@ install.packages(c("shiny", "e1071", "R6", "shinythemes", "xlsx", "doParallel"))
 
 3. Install any missing R packages if prompted.
 
-4. Run the app by executing the entire script.
+4. Change the path in app.R and server.R. 
 
-5. The Shiny app should launch in your default web browser. If not, check the R console for instructions.
+5. Run the app by executing the entire script.
+
+6. The Shiny app should launch in your default web browser. If not, check the R console for instructions.
 
 # Using the App
 
