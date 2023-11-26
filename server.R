@@ -6,7 +6,7 @@ library(xlsx)
 library(doParallel)
 library(openxlsx)
 library(devtools)
-source("C:/Users/user/Documents/GitHub/naive_bayes_r/Victor/SHINY_TEST/NB.R")
+source("NB.R")
 
 nb_model <- NaiveBayes$new()
 set.seed(42)

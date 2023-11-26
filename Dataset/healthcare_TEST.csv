@@ -1,8 +1,8 @@
-﻿Name;Age;Gender;Blood Type;Medical Condition;Date of Admission;Doctor;Hospital;Insurance Provider;Billing Amount;Room Number;Admission Type;Discharge Date;Medication
-Tiffany Ramirez;81;Female;O-;Diabetes;17/11/2022;Patrick Parker;Wallace-Hamilton;Medicare;37490.98336352819;146;Elective;01/12/2022;Aspirin
-Ruben Burns;35;Male;O+;Asthma;01/06/2023;Diane Jackson;Burke, Griffin and Cooper;UnitedHealthcare;47304.06484547511;404;Emergency;15/06/2023;Lipitor
-Chad Byrd;61;Male;B-;Obesity;09/01/2019;Paul Baker;Walton LLC;Medicare;36874.89699661277;292;Emergency;08/02/2019;Lipitor
-Antonio Frederick;49;Male;B-;Asthma;02/05/2020;Brian Chandler;Garcia Ltd;Medicare;23303.322092196904;480;Urgent;03/05/2020;Penicillin
-Mrs. Brandy Flowers;51;Male;O-;Arthritis;09/07/2021;Dustin Griffin;Jones, Brown and Murray;UnitedHealthcare;18086.344183563877;477;Urgent;02/08/2021;Paracetamol
-Patrick Parker;41;Male;AB+;Arthritis;20/08/2020;Robin Green;Boyd PLC;Aetna;22522.363384853266;180;Urgent;23/08/2020;Aspirin
-Charles Horton;82;Male;AB+;Hypertension;22/03/2021;Patricia Bishop;Wheeler, Bryant and Johns;Cigna;39593.4357611308;161;Urgent;15/04/2021;Lipitor
+Name;Age;Gender;Blood Type;Medical Condition;Doctor;Hospital;Insurance Provider;Billing Amount;Room Number;Admission Type;Medication
+Tiffany Ramirez;81;Female;O-;Diabetes;Patrick Parker;Wallace-Hamilton;Medicare;37490.98336352819;146;Elective;Aspirin
+Ruben Burns;35;Male;O+;Asthma;Diane Jackson;Burke, Griffin and Cooper;UnitedHealthcare;47304.06484547511;404;Emergency;Lipitor
+Chad Byrd;61;Male;B-;Obesity;Paul Baker;Walton LLC;Medicare;36874.89699661277;292;Emergency;Lipitor
+Antonio Frederick;49;Male;B-;Asthma;Brian Chandler;Garcia Ltd;Medicare;23303.322092196904;480;Urgent;Penicillin
+Mrs. Brandy Flowers;51;Male;O-;Arthritis;Dustin Griffin;Jones, Brown and Murray;UnitedHealthcare;18086.344183563877;477;Urgent;Paracetamol
+Patrick Parker;41;Male;AB+;Arthritis;Robin Green;Boyd PLC;Aetna;22522.363384853266;180;Urgent;Aspirin
+Charles Horton;82;Male;AB+;Hypertension;Patricia Bishop;Wheeler, Bryant and Johns;Cigna;39593.4357611308;161;Urgent;Lipitor

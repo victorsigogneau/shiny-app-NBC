@@ -1,0 +1,10 @@
+name: shiny-app-nbc
+title:
+username: c4sf5g-victor-sigogneau
+account: c4sf5g-victor-sigogneau
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10629572
+bundleId: 7970367
+url: https://c4sf5g-victor-sigogneau.shinyapps.io/shiny-app-nbc/
+version: 1
