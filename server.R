@@ -130,7 +130,6 @@ server <- function(input, output, session) {
         predictions <- nb_model$predict(new_data()[, input$explanatory_variables])
         combined_data_value <- cbind(new_data(), Prediction = predictions)
         combined_data(combined_data_value)
-        print(44)
       }
       return(combined_data())
     }
